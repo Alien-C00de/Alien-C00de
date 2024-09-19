@@ -3,7 +3,7 @@
 
 ![Banner](https://via.placeholder.com/1200x100.png?text=Welcome+to+My+GitHub+Profile)
 
-## About Me
+## I little bit about me
 - 🔭 I’m currently working on [Web Kundli](https://github.com/Alien-C00de/Web-Kundli)
 - 🌱 I’m currently learning **Malware & Exploit Development**
 - 👯 I’m looking to collaborate on **Offensive Cyber Security**
@@ -20,6 +20,8 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ## 🌐 Connect with Me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://www.linkedin.com/in/yourprofile)
