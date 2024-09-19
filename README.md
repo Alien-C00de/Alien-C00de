@@ -27,10 +27,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://www.linkedin.com/in/yourprofile)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50" />]([https://www.linkedin.com/in/yourprofile)
 
-
-## 📫 Reach Out
-I love connecting with like-minded professionals! Feel free to reach out for collaborations, discussions on cybersecurity topics, or just a friendly chat.
-
 ---
 
 Thank you for visiting my profile. 🚀
