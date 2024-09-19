@@ -1,49 +1,34 @@
-<h1 align="center">Hi 👋, I'm Santosh</h1>
+# 👋 Hello I am Santosh a.k.a Aline-C00de!
+<h3 align="center">Cyber Security Professional | Offensive Security Enthusiast</h3>
 
-<h3 align="center">Cyber Security Professional | Offensive Security Enthusiast </h3>
+![Banner](https://via.placeholder.com/1200x100.png?text=Welcome+to+My+GitHub+Profile)
 
-<h2 align="left">Hi 👋! My name is Santosh</h2>
-
-## I little bit about me
+## About Me
 - 🔭 I’m currently working on [Web Kundli](https://github.com/Alien-C00de/Web-Kundli)
 - 🌱 I’m currently learning **Malware & Exploit Development**
 - 👯 I’m looking to collaborate on **Offensive Cyber Security**
-- ✍️ &nbsp;In my free time, I enjoy reading, meditaion and spending time with family.
 - 📫 How to reach me **alien.c00de@gmail.com**
 
-###
+### 🛠️ Skills
+- **Programming Languages**:  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-7E9CD8?style=for-the-badge&logo=assemblyscript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+- **Areas of Expertise**:
+  - **OSINT Tools**: Crafting effective tools for OSINT.  
+  - **Exploit Development**: Crafting effective exploits for diverse platforms.
+  - **Malware Analysis**: Investigating and analyzing malware behaviors.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://www.linkedin.com/in/yourprofile)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50" />]([https://www.linkedin.com/in/yourprofile)
+
+
+## 📫 Reach Out
+I love connecting with like-minded professionals! Feel free to reach out for collaborations, discussions on cybersecurity topics, or just a friendly chat.
 
 ---
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
 
-###
-
-<div align="left">
-  <a href="mailto:alien-c00de@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
----
-## Links
-
-<p align="center">
-  <a href="mailto:alien.c00de@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-</p>
-
+Thank you for visiting my profile. 🚀
