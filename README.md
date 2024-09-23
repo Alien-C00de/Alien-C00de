@@ -14,9 +14,9 @@
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-7E9CD8?style=for-the-badge&logo=assemblyscript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 - **Areas of Expertise**:
-  - **OSINT Tools**: Crafting effective tools for OSINT.  
   - **Exploit Development**: Crafting effective exploits for diverse platforms.
   - **Malware Analysis**: Investigating and analyzing malware behaviors.
+  - **OSINT Tools**: Crafting effective tools for OSINT.  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alien-c00de&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alien-c00de&layout=compact&theme=radical)
