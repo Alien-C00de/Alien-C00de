@@ -3,7 +3,7 @@
 
 ![Banner](https://via.placeholder.com/1200x75.png?text=Welcome+to+My+GitHub+Profile)
 
-## A little bit about me !
+## A little bit about me 🕵️‍♂️!
 - 🔭 I’m currently working on [Web Kundli](https://github.com/Alien-C00de/Web-Kundli)
 - 🌱 I’m currently learning **Malware & Exploit Development**
 - 👯 I’m looking to collaborate on **Offensive Cyber Security**
